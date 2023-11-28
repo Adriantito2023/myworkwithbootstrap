@@ -1,0 +1,21 @@
+*{
+    color: blueviolet;
+}
+img{
+    width: 300px;
+    height: 280px;
+}
+p{
+    color: grey;
+}
+.line{
+    color: white;
+    width: 700px;
+    margin-left: 100px;
+}
+span{
+    color: grey;
+}
+a{
+    color: grey;
+}
